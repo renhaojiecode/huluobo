@@ -1,10 +1,4 @@
 # @huluobosu/huluobo
 
-
-URL https://img.shields.io/github/issues/renhaojiecode/huluobo.svg
-
-Markdown ![](https://img.shields.io/github/issues/renhaojiecode/huluobo.svg)
-
-reStructuredText .. image:: https://img.shields.io/github/issues/renhaojiecode/huluobo.svg
-
-AsciiDoc image:https://img.shields.io/github/issues/renhaojiecode/huluobo.svg
+![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-brightgreen.svg)
+![](https://img.shields.io/github/issues/renhaojiecode/huluobo.svg)
