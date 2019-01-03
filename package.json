@@ -1,0 +1,13 @@
+{
+	"name": "@renhuluobosu/huluobo",
+	"version": "1.0.0",
+	"description": "Removes all spaces from a string",
+	"license": "MIT",
+	"main": "index.js",
+	"keywords": [
+		"huluobo",
+		"npm",
+		"package",
+		"bamblehorse"
+	]
+}
